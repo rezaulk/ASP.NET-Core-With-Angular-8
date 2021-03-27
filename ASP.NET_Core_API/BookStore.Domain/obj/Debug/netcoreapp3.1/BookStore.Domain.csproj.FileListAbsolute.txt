@@ -1,0 +1,9 @@
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.deps.json
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.AssemblyInfo.cs
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.csprojAssemblyReference.cache

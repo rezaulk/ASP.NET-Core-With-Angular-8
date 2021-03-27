@@ -1,0 +1,15 @@
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Repository.deps.json
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Repository.dll
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Repository.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.csprojAssemblyReference.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.AssemblyInfo.cs
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.csproj.CopyComplete
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.dll
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.pdb
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Repository.runtimeconfig.json
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\bin\Debug\netcoreapp3.1\BookStore.Repository.runtimeconfig.dev.json
+C:\Users\rezau\OneDrive\Documents\GitHub\ASP.NET-Core-With-Angular-8\ASP.NET_Core_API\BookStore.Repository\obj\Debug\netcoreapp3.1\BookStore.Repository.genruntimeconfig.cache
