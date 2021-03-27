@@ -1,0 +1,31 @@
+
+
+<div class="card-body">  
+  <div class="table-responsive" style="max-height:385px;">  
+    <table class="table mb-0" *ngIf="latestPosts && latestPosts.length>0">  
+      <thead>  
+        <tr>  
+          <th>Sl.No</th>  
+          <th>Post Title(With Link)</th>  
+          <th>Post Type</th>  
+          <th>Published Date</th>  
+          <th>Author</th>  
+          <th>Action</th>  
+        </tr>  
+      </thead>  
+      <tbody>  
+        <tr *ngFor="let post of latestPosts; let i = index">  
+          <td>{{ i + 1 }}</td>  
+          <td style="text-align:left;"><a href="{{post.Title}}" target="_blank">{{post.title}}</a></td>  
+          <td>{{ post.genre }}</td> 
+          <td>{{ post.author }}</td>  
+           <td>{{ post.publisher}} </td> 
+          <td><a href="{{post.id}}" target="_blank">{{ post.publisher}} </a> </td>  
+        </tr>  
+      </tbody>  
+    </table>  
+  </div>  
+</div>  
+
+
+<router-outlet></router-outlet>
